@@ -1,5 +1,5 @@
 *.iml
-row/
+raw/
 .gradle
 /local.properties
 /.idea/caches
